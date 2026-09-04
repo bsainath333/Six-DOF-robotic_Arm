@@ -1,4 +1,4 @@
-# Six DOF Robotic Arm 🦾
+# Six DOF Robotic Arm 
 
 A six-degree-of-freedom (6-DOF) robotic arm designed for industrial applications. This project enables fast and efficient production through automated precision manipulation.
 
@@ -13,11 +13,11 @@ This repository contains the design, control, and implementation files for a 6-D
 
 ## Features
 
-- ✨ 6 Degrees of Freedom for versatile motion
-- 🎯 High precision and repeatability
-- ⚡ Optimized for industrial-scale production
-- 🔧 Modular design for easy customization
-- 📊 Real-time control and monitoring capabilities
+-  6 Degrees of Freedom for versatile motion
+-  High precision and repeatability
+-  Optimized for industrial-scale production
+-  Modular design for easy customization
+- Real-time control and monitoring capabilities
 
 ## Project Structure
 
@@ -107,6 +107,6 @@ Contributions are welcome! Please follow these guidelines:
 
 ---
 
-**Status**: 🚀 Active Development
+**Status**:  Active Development
 
 For issues, feature requests, or questions, please open an [Issue](https://github.com/bsainath333/Six-DOF-robotic_Arm/issues) on GitHub.
